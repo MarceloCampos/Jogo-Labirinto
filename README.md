@@ -1,5 +1,5 @@
 # Jogo-Labirinto
-Jogo tirar a bolinha do Labirinto, controle via Joystick / Servos
+Jogo tirar a bolinha do Labirinto, controle via Joystick / Servos, fiz inicialmente para a BSides 0xF SP e depois para ficar no Garoa Hacker Club
 
 Arquivos originais de impressão 3D no Thingiverse: https://www.thingiverse.com/thing:1451703
 
